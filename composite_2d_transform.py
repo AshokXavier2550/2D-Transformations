@@ -38,8 +38,7 @@ def get_shape():
     
     return np.array(points)
 
-import numpy as np
-import matplotlib.pyplot as plt
+
 
 
 
