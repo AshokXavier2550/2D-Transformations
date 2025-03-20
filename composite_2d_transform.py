@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt  # <- Ensure this line is present
+
 
 def get_shape():
     print("\nChoose a shape:")
