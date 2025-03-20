@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt  # <- Ensure this line is present
+import matplotlib.pyplot as plt  
 
 
 def get_shape():
